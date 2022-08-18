@@ -86,7 +86,7 @@ class RawFunctions(object):
 
         teks = f"**Traceback Report:**\n\n"
         teks += f"**Date:** `{self.showdate()}`\n**Time:** `{self.showtime()}`\n\n"
-        teks += f"`This can be a error in Asterix Userbot, if you want you can forward this to @asterix_support.`\n\n"
+        teks += f"`This can be a error in Tiger UserBot, if you want you can forward this to @asterix_support.`\n\n"
         teks += f"**Command:** `{message.text}`\n\n"
         teks += "`-`" * 30 + "\n\n"
         teks += f"**SHORT:** \n\n`{e}`\n\n"

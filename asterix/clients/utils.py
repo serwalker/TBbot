@@ -48,5 +48,5 @@ class Utils(Methods, Config, Database, Helpers):
 
     telegraph = Telegraph()
     telegraph.create_account(
-        short_name=Config.TL_NAME if Config.TL_NAME else "Asterix Userbot"
+        short_name=Config.TL_NAME if Config.TL_NAME else "Tiger UserBot"
     )

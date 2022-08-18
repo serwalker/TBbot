@@ -1,4 +1,4 @@
-# Asterix UserBot
+# Tiger UserBot
 * A Powerful Telegram userbot based on Pyrogram.
 
 [![Alphonse/Asterix logo](https://telegra.ph/file/4a76ed1bb13b98330533d.jpg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FTeamAsterix%2FAsterixUB%2Ftree%2Fbugs&template=https%3A%2F%2Fgithub.com%2FTeamAsterix%2FAsterixUB)
@@ -61,7 +61,7 @@
 
 `bash start.sh`
 
-<p>3. Done, Have fun using asterix userbot.</p>
+<p>3. Done, Have fun using Tiger UserBot.</p>
 
 
 </details>

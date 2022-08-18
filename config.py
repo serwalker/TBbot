@@ -59,7 +59,7 @@ class Config(object):
     # custom  pmpermit security text (optional)
     PMPERMIT_TEXT = os.getenv(
         "PMPERMIT_TEXT",
-        "Hey ! This is [ Asterix Userbot](https://t.me/TigerNetwork) Security System.\n**You will be blocked if you spammed my owner's pm**\nCurrently My Owner is busy! So Wait Until He Arrives. 👍🏻\nAnd Better Not To Spam His here!",
+        "Hey ! This is [ Tiger UserBot](https://t.me/TigerNetwork) Security System.\n**You will be blocked if you spammed my owner's pm**\nCurrently My Owner is busy! So Wait Until He Arrives. 👍🏻\nAnd Better Not To Spam His here!",
     )
     # pmpermit warn limit (optional)
     PM_LIMIT = int(os.getenv("PM_LIMIT", 4))
@@ -70,7 +70,7 @@ class Config(object):
     USER_NAME = os.getenv("USER_NAME")
     # your custom bio (default: telegram bio)
     USER_BIO = os.getenv("USER_BIO")
-    # used for alive plugin (default: asterixuserbot logo image)
+    # used for alive plugin (default: tigeruserbot logo image)
     USER_PIC = os.getenv("USER_PIC", "")
     # add your telegram id if bot fails to get your id
     USER_ID = os.getenv("USER_ID")
@@ -93,7 +93,7 @@ class Config(object):
     # thumbnail used while uploading plugins, etc. (optional)
     THUMB_PIC = os.getenv("THUMB_PIC", "material/images/asterix")
     # ---------------------
-    # your telegraph account name (default: Asterixuserbot)
+    # your telegraph account name (default: tigeruserbot)
     TL_NAME = os.getenv("TL_NAME")
     # this will be shown before (as a prefix) the texts in the help dex (default: None)
     HELP_EMOJI = os.getenv("HELP_EMOJI")

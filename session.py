@@ -39,7 +39,7 @@ API_HASH = input("\nEnter API HASH: ")
 with Client("in_memory=True", api_id=int(API_ID), api_hash=API_HASH) as app:
     app.send_message(
         "me",
-        f"This Is Your Asterix Userbot • [ `SESSION` ]\n\n```{app.export_session_string()}```\n\n⚠️• Don't share this with anyone !!\n\nCreate Again • [ Press Here](https://replit.com/@TeamAsterix/AsterixUB)",
+        f"This Is Your Tiger UserBot • [ `SESSION` ]\n\n```{app.export_session_string()}```\n\n⚠️• Don't share this with anyone !!\n\nCreate Again • [ Press Here](https://replit.com/@TeamAsterix/AsterixUB)",
         disable_web_page_preview=True,
     )
     print(

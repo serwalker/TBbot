@@ -51,7 +51,7 @@ async def start_bot():
     print(f"\n\n{modules} modules Loaded\n\n")
     await start_assistant()
     await start_userbot()
-    print("You successfully deployed Asterix Userbot, try .ping or .alive to test it.")
+    print("You successfully deployed Tiger UserBot, try .ping or .alive to test it.")
     await idle()  # block execution
 
 
