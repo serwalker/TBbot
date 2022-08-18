@@ -401,5 +401,6 @@ async def rmprofile(m: Message, args):
 @app.on_message(gen("repo", allow=["sudo"]))
 async def repolink_handler(_, m: Message):
     await app.send_edit(
-        m, "[Here Is Asterix Userbot Repo](https://github.com/TigerNetwork/Tiger-USERBOT)"
+        m,
+        "[Here Is Asterix Userbot Repo](https://github.com/TigerNetwork/Tiger-USERBOT)",
     )
