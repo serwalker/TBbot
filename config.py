@@ -91,7 +91,7 @@ class Config(object):
     TOKEN = os.getenv("TOKEN")
     # ---------------------
     # thumbnail used while uploading plugins, etc. (optional)
-    THUMB_PIC = os.getenv("THUMB_PIC", "material/images/asterix")
+    THUMB_PIC = os.getenv("THUMB_PIC", "material/images/TBbot")
     # ---------------------
     # your telegraph account name (default: TBbot)
     TL_NAME = os.getenv("TL_NAME")
