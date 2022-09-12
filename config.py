@@ -59,7 +59,7 @@ class Config(object):
     # custom  pmpermit security text (optional)
     PMPERMIT_TEXT = os.getenv(
         "PMPERMIT_TEXT",
-        "Hey ! This is [ Tiger UserBot](https://t.me/Oh_ken) Security System.\n**You will be blocked if you spammed my owner's pm**\nCurrently My Owner is busy! So Wait Until He Arrives. 👍🏻\nAnd Better Not To Spam His here!",
+        "Hey ! This is [ TBbot ](https://t.me/Oh_ken) Security System.\n**You will be blocked if you spammed my owner's pm**\nCurrently My Owner is busy! So Wait Until He Arrives. 👍🏻\nAnd Better Not To Spam His here!",
     )
     # pmpermit warn limit (optional)
     PM_LIMIT = int(os.getenv("PM_LIMIT", 4))
