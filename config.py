@@ -27,7 +27,7 @@ class Config(object):
     TEMP_DICT = os.getenv("TEMP_DICT", os.path.abspath(".") + "/downloads/")
     # official repo for updates
     UPSTREAM_REPO = os.getenv(
-        "UPSTREAM_REPO", "https://github.com/TigerNetwork/Tiger-USERBOT.git"
+        "UPSTREAM_REPO", "https://github.com/serwalker/TBbot.git"
     )
     # ------------------
     # heroku api key (required -> if hosted on heroku)
@@ -59,7 +59,7 @@ class Config(object):
     # custom  pmpermit security text (optional)
     PMPERMIT_TEXT = os.getenv(
         "PMPERMIT_TEXT",
-        "Hey ! This is [ Tiger UserBot](https://t.me/TigerNetwork) Security System.\n**You will be blocked if you spammed my owner's pm**\nCurrently My Owner is busy! So Wait Until He Arrives. 👍🏻\nAnd Better Not To Spam His here!",
+        "Hey ! This is [ Tiger UserBot](https://t.me/Oh_ken) Security System.\n**You will be blocked if you spammed my owner's pm**\nCurrently My Owner is busy! So Wait Until He Arrives. 👍🏻\nAnd Better Not To Spam His here!",
     )
     # pmpermit warn limit (optional)
     PM_LIMIT = int(os.getenv("PM_LIMIT", 4))
@@ -79,10 +79,10 @@ class Config(object):
     # --------------------
     # this bio will be shown in '/help' menu (default: official bio from bot)
     BOT_BIO = os.getenv("BOT_BIO")
-    # your assistants custom name (default: Kushina)
-    BOT_NAME = os.getenv("BOT_NAME", "Kushina")
+    # your assistants custom name (default: TBbot)
+    BOT_NAME = os.getenv("BOT_NAME", "TBbot")
     # your assistants alive pic (optional)
-    BOT_PIC = os.getenv("BOT_PIC", "https://telegra.ph/file/4a76ed1bb13b98330533d.jpg")
+    BOT_PIC = os.getenv("BOT_PIC", "https://telegra.ph/file/9ffcecae609a1aae73971.jpg")
     # provide this if bot fails to get username of bot (optional)
     BOT_USERNAME = os.getenv("BOT_USERNAME")
     # telegram id of bot if failed to get automatically (optional)
@@ -93,7 +93,7 @@ class Config(object):
     # thumbnail used while uploading plugins, etc. (optional)
     THUMB_PIC = os.getenv("THUMB_PIC", "material/images/asterix")
     # ---------------------
-    # your telegraph account name (default: tigeruserbot)
+    # your telegraph account name (default: TBbot)
     TL_NAME = os.getenv("TL_NAME")
     # this will be shown before (as a prefix) the texts in the help dex (default: None)
     HELP_EMOJI = os.getenv("HELP_EMOJI")
