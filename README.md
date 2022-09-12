@@ -27,8 +27,7 @@
 
 ## Heroku Deploy
 
-  - [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TigerNetwork/Tiger-USERBOT)
-
+  - [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/serwalker/TBbot)
 ## Railway Deploy
 
  - [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/-U4IQf?referralCode=pmqzRk)
