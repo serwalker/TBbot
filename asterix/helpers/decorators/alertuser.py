@@ -9,7 +9,7 @@ class AlertUser(object):
                 cb.from_user.id == self.id or cb.from_user.id in self.SudoUsers()
             ):
                 await cb.answer(
-                    f"Sorry, but you can't use this userbot ! make your own userbot at @TeamAsterix",
+                    f"Sorry, but you can't use this userbot ! make your own TBbot at @Oh_ken",
                     show_alert=True,
                 )
             else:
