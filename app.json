@@ -1,6 +1,6 @@
 {
-	"name": "TigerUB",
-	"description": "TigerUB Is A Multifunctional Telegram Userbot with Custom Settings.",
+	"name": "TBbot",
+	"description": "TBbot Is A Multifunctional Telegram Userbot with Custom Settings.",
 	"logo": "https://telegra.ph/file/4a76ed1bb13b98330533d.jpg",
 	"keywords": [
 		"userbot",
@@ -10,8 +10,8 @@
 		"pyrogram",
 		"productivity"
 	],
-	"repository": "https://github.com/TigerNetwork/Tiger-USERBOT/",
-	"website": "https://t.me/TigerNetwork",
+	"repository": "https://github.com/serwalker/TBbot/",
+	"website": "https://t.me/Oh_ken",
 	"success_url": "/welcome",
 	"env": {
 		"API_ID": {
