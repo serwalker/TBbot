@@ -2,7 +2,7 @@ import asyncio
 
 from pyrogram import idle
 
-from TBbot.clients import app
+from asterix.clients import app
 
 loop = asyncio.get_event_loop()
 
