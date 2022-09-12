@@ -1,7 +1,7 @@
-# Tiger UserBot
+# TBbot
 * A Powerful Telegram userbot based on Pyrogram.
 
-[![Alphonse/Asterix logo](https://telegra.ph/file/4a76ed1bb13b98330533d.jpg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FTeamAsterix%2FAsterixUB%2Ftree%2Fbugs&template=https%3A%2F%2Fgithub.com%2FTeamAsterix%2FAsterixUB)
+[![Alphonse/Asterix logo](https://telegra.ph/file/9ffcecae609a1aae73971.jpg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FTeamAsterix%2FAsterixUB%2Ftree%2Fbugs&template=https%3A%2F%2Fgithub.com%2FTeamAsterix%2FAsterixUB)
 [![](https://img.shields.io/badge/Asterix-v0.0.1-red)](#)
 [![Stars](https://img.shields.io/github/stars/TeamAsterix/Asterixub?style=flat-square&color=yellow)](https://github.com/TigerNetwork/Tiger-USERBOT/stargazers)
 [![Forks](https://img.shields.io/github/forks/TeamAsterix/Asterixub?style=flat-square&color=orange)](https://github.com/TigerNetwork/Tiger-USERBOT/fork)
@@ -14,7 +14,7 @@
 
 
 
-## How To Deploy Asterix
+## How To Deploy TBbot
 
 - [Heroku](#Heroku-Deploy)
 - [Railway](#Railway-Deploy)
@@ -50,7 +50,7 @@
 
 `pkg install python git nano`
 
-`git clone https://github.com/TigerNetwork/Tiger-USERBOT`
+`git clone https://github.com/serwalker/TBbot`
 
 `cd Asterix`
 
@@ -60,7 +60,7 @@
 
 `bash start.sh`
 
-<p>3. Done, Have fun using Tiger UserBot.</p>
+<p>3. Done, Have fun using TBbot.</p>
 
 
 </details>
